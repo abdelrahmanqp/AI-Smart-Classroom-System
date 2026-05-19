@@ -11,6 +11,29 @@ An AI-powered smart classroom web application integrating face recognition, emot
 - Role-based login system
 - Database integration
 
+## Screenshots
+
+### Login Page
+![Login](login.jpeg)
+
+### Student Dashboard
+![Student Dashboard](Student Dashboard.jpeg)
+
+### Parent Dashboard
+![Parent Dashboard](PARENT DASHBOARD.jpeg)
+
+### Smart Board Interaction
+![Smart Board](SMART-BOARD 2.jpeg)
+
+### Emotion Detection
+![Emotion Detection](EMOTION DETECTION.jpeg)
+
+### Face Recognition
+![Face Recognition](FACE RECOGNITION.jpeg)
+
+### Doctor Dashboard
+![Doctor Dashboard](Doctor dashboard.jpeg)
+
 ## Technologies Used
 - React.js
 - Node.js
